@@ -5,4 +5,4 @@ REF2014 (https://impact.ref.ac.uk/casestudies/search1.aspx) includes a collectio
 
 Modules in REF_case_study_data allow case study fields to be extracted according to research discipline or by keyword. This includes categories and text data from JSON API results. I include two analyses and visualisations, with the example of seeing how case studies included under keyword "HIV" are broken down by unit of assessment (discipline) and impact type. You find interesting results for words which might reflect the authors' understanding of their impact, like "policy", "influence", "health", "media".
 
-REF_topic_model currently reads all case studies under keyword "HIV" and generates a topic model of the impact details raw text data. This gives a view of the clustering patterns of salient words in the text. 
+REF_topic_model currently reads all case studies under keyword "HIV" and generates a topic model of the impact details text. This gives a view of the clustering patterns of salient words in the text. 
