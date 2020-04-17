@@ -1,5 +1,5 @@
 # Research-Excellence-Framework-2014-analysis
-A few modules to extract and analyse case study data from REF2014 and form a few musings on what we find
+A few modules to extract and analyse case study data from REF2014 and form tentative musings on what we find
 
 REF2014 (https://impact.ref.ac.uk/casestudies/search1.aspx) includes a collection of research case studies, where authors describe the impact of their research. Quantifying impact magnitude is not easy, given the place of subjectivity and lack of potentially useful metrics (bredth, uptake, novelty, etc.), but some ideas about what researchers are talking about when they talk about research can be explored.
 
